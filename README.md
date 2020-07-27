@@ -11,6 +11,7 @@ I love to learn new things, it doesn't matter if it is a new technology, languag
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://github.com/gumberss/ProposalValidator)
 [![Javascript](https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)](https://github.com/gumberss/LearnLanguages/tree/master/Javascript)
 [![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white)](https://github.com/gumberss/LearnLanguages/tree/master/Elixir)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/gumberss/madness-microservice)
 
 ##### Frameworks / Runtimes
 [![Node.js](https://img.shields.io/badge/-Node.js-39933?style=flat&logo=node.js&logoColor=white)](https://github.com/gumberss/Ticketing)
