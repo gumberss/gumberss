@@ -35,6 +35,8 @@ I love to learn new things, it doesn't matter if it is a new technology, languag
 [![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-0080FF?style=flat&logo=digitalocean&logoColor=white)](https://github.com/gumberss/Ticketing/)
 [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://github.com/gumberss/Ticketing/tree/master/infra/k8s/google-cloud)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gumberss)](https://github.com/gumberss)
+
 <!--
 **gumberss/gumberss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
