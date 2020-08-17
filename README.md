@@ -21,6 +21,7 @@ I love to learn new things, it doesn't matter if it is a new technology, languag
 #### DB
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://github.com/gumberss/Ticketing)
 [![Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)](https://github.com/gumberss/MySnacker)
+[![Redis](https://img.shields.io/badge/-Redis-%DC382D?style=flat&logo=redis&logoColor=white)](https://github.com/gumberss/ASP.NET-Core-ECommerce)
 
 #### Containers
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/gumberss/Ticketing)
