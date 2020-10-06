@@ -35,7 +35,3 @@ I love to learn new things, it doesn't matter if it is a new technology, languag
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://github.com/gumberss/piadometro-server)
 [![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-0080FF?style=flat&logo=digitalocean&logoColor=white)](https://github.com/gumberss/Ticketing/)
 [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://github.com/gumberss/Ticketing/tree/master/infra/k8s/google-cloud)
-
-<!--
-
--->
