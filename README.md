@@ -37,8 +37,5 @@ I love to learn new things, it doesn't matter if it is a new technology, languag
 [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://github.com/gumberss/Ticketing/tree/master/infra/k8s/google-cloud)
 
 <!--
-**gumberss/gumberss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 -->
