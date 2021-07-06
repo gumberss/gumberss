@@ -26,6 +26,7 @@ I love to learn new things, it doesn't matter if it is a new technology, languag
 #### Containers
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/gumberss/Ticketing)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://github.com/gumberss/Ticketing)
+[![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white)](https://github.com/gumberss/FinanceControlinator/tree/master/infra/helm)
 
 #### Messaging
 [![RabbitMq](https://img.shields.io/badge/-RabbitMq-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://github.com/gumberss/madness-microservice)
@@ -35,3 +36,6 @@ I love to learn new things, it doesn't matter if it is a new technology, languag
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://github.com/gumberss/piadometro-server)
 [![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-0080FF?style=flat&logo=digitalocean&logoColor=white)](https://github.com/gumberss/Ticketing/)
 [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://github.com/gumberss/Ticketing/tree/master/infra/k8s/google-cloud)
+[![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://github.com/gumberss/FinanceControlinator)
+[![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)](https://github.com/gumberss/FinanceControlinator)
+
