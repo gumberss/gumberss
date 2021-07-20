@@ -19,9 +19,10 @@ I love to learn new things, it doesn't matter if it is a new technology, languag
 [![EntityFramework](https://img.shields.io/badge/-Entity%20Framework-CC2927?style=flat)](https://github.com/gumberss/MySnacker)
 
 #### DB
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://github.com/gumberss/Ticketing)
 [![Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)](https://github.com/gumberss/MySnacker)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://github.com/gumberss/Ticketing)
 [![Redis](https://img.shields.io/badge/-Redis-%DC382D?style=flat&logo=redis&logoColor=white)](https://github.com/gumberss/ASP.NET-Core-ECommerce)
+[![RavenDB](https://img.shields.io/badge/-RavenDB-ca1c59?style=flat&logo=ravendb&logoColor=white)](https://github.com/gumberss/FinanceControlinator)
 
 #### Containers
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/gumberss/Ticketing)
