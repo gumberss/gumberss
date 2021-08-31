@@ -7,8 +7,8 @@ I love to learn new things, it doesn't matter if it is a new technology, languag
 #### What do I learn? Click on one of the shortcuts below and see it 😄
 
 ##### Languages
-[![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/gumberss/Ticketing)
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://github.com/gumberss/ProposalValidator)
+[![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/gumberss/Ticketing)
 [![Javascript](https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)](https://github.com/gumberss/LearnLanguages/tree/master/Javascript)
 [![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white)](https://github.com/gumberss/LearnLanguages/tree/master/Elixir)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/gumberss/madness-microservice)
