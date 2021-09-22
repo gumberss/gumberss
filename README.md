@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Gustavo and I'm a Team Architect at NDD 😄
+I'm Gustavo 😄
 
 I love to learn new things, it doesn't matter if it is a new technology, language, pattern... Do you wanna learn with me? say hi to me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gumbers/) 📫
 
