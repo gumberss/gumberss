@@ -43,4 +43,4 @@ I love to learn new things, Let's learn together? Call me on [![Linkedin Badge](
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://github.com/gumberss/piadometro-server)
 [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://github.com/gumberss/Ticketing/tree/master/infra/k8s/google-cloud)
 
-
+![](https://komarev.com/ghpvc/?username=gumberss&label=Total+things+learned)
