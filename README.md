@@ -9,7 +9,10 @@ I love to learn new things, it doesn't matter if it is a new technology, languag
 ##### Languages
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://github.com/gumberss/ProposalValidator)
 [![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/gumberss/Ticketing)
+[![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat&logo=clojure&logoColor=white)](https://github.com/gumberss/mini-finance-controlinator)
 [![Javascript](https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)](https://github.com/gumberss/LearnLanguages/tree/master/Javascript)
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://github.com/gumberss/mini-finance-controlinator-mobile)
+
 [![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white)](https://github.com/gumberss/LearnLanguages/tree/master/Elixir)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/gumberss/madness-microservice)
 
@@ -34,9 +37,10 @@ I love to learn new things, it doesn't matter if it is a new technology, languag
 [![Nats Streaming](https://img.shields.io/badge/-Nats%20Streaming-4086F2?style=flat)](https://github.com/gumberss/Ticketing)
 
 #### Cloud
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://github.com/gumberss/piadometro-server)
-[![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-0080FF?style=flat&logo=digitalocean&logoColor=white)](https://github.com/gumberss/Ticketing/)
-[![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://github.com/gumberss/Ticketing/tree/master/infra/k8s/google-cloud)
 [![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://github.com/gumberss/FinanceControlinator)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://github.com/gumberss/mini-finance-controlinator-serverless)
 [![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)](https://github.com/gumberss/FinanceControlinator)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://github.com/gumberss/piadometro-server)
+[![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://github.com/gumberss/Ticketing/tree/master/infra/k8s/google-cloud)
+
 
