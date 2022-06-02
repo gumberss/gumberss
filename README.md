@@ -8,10 +8,10 @@ I love to learn new things, Let's learn together? Call me on [![Linkedin Badge](
 
 ##### Languages
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://github.com/gumberss/ProposalValidator/tree/master/CSharp)
-[![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/gumberss/Ticketing)
 [![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat&logo=clojure&logoColor=white)](https://github.com/gumberss/mini-finance-controlinator)
-[![Javascript](https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)](https://github.com/gumberss/LearnLanguages/tree/master/Javascript)
+[![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/gumberss/Ticketing)
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://github.com/gumberss/mini-finance-controlinator-mobile)
+[![Javascript](https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)](https://github.com/gumberss/LearnLanguages/tree/master/Javascript)
 
 [![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white)](https://github.com/gumberss/LearnLanguages/tree/master/Elixir)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/gumberss/madness-microservice)
