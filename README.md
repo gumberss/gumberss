@@ -11,7 +11,7 @@ I love to learn new things, Let's learn together? Call me on [![Linkedin Badge](
 [![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat&logo=clojure&logoColor=white)](https://github.com/gumberss/PurchaseListinator)
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://github.com/gumberss/FinanceControlinatorMobile)
 [![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/gumberss/Ticketing)
-[![Javascript](https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)](https://github.com/gumberss/LearnLanguages/tree/master/Javascript)
+[![Javascript](https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)](https://github.com/gumberss/Sandboxinator/tree/master/Javascript)
 
 ##### Frameworks / Runtimes
 [![EntityFramework](https://img.shields.io/badge/-Entity%20Framework-CC2927?style=flat)](https://github.com/gumberss/FinanceControlinator/tree/master/Microservices/Expenses)
