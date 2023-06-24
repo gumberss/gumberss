@@ -20,9 +20,10 @@ I love to learn new things, Let's learn together? Call me on [![Linkedin Badge](
 
 #### DB
 [![Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)](https://github.com/gumberss/MySnacker)
-[![RavenDB](https://img.shields.io/badge/-RavenDB-ca1c59?style=flat&logo=ravendb&logoColor=white)](https://github.com/gumberss/FinanceControlinator)
+[![Datomic](https://img.shields.io/badge/-Datomic-65c985?style=flat&logo=datomic&logoColor=white)](https://github.com/gumberss/PurchaseListinator)
 [![Redis](https://img.shields.io/badge/-Redis-%DC382D?style=flat&logo=redis&logoColor=white)](https://github.com/gumberss/ASP.NET-Core-ECommerce)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://github.com/gumberss/Ticketing)
+[![RavenDB](https://img.shields.io/badge/-RavenDB-ca1c59?style=flat&logo=ravendb&logoColor=white)](https://github.com/gumberss/FinanceControlinator)
 
 #### Containers
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/gumberss/Ticketing)
@@ -30,7 +31,7 @@ I love to learn new things, Let's learn together? Call me on [![Linkedin Badge](
 [![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white)](https://github.com/gumberss/FinanceControlinator/tree/master/infra/helm)
 
 #### Messaging
-[![RabbitMq](https://img.shields.io/badge/-RabbitMq-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://github.com/gumberss/madness-microservice)
+[![RabbitMq](https://img.shields.io/badge/-RabbitMq-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://github.com/gumberss/PurchaseListinator)
 [![Nats Streaming](https://img.shields.io/badge/-Nats%20Streaming-4086F2?style=flat)](https://github.com/gumberss/Ticketing)
 
 #### Cloud
