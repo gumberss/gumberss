@@ -4,6 +4,13 @@ I'm Gustavo 😄
 
 I love to learn new things, Let's learn together? Call me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gumbers/) 📫
 
+#### Articles
+
+I occasionally write about advanced topics. Interested? Click the link below. 
+
+[![Articles](https://img.shields.io/badge/-Articles-white?style=flat&logo=read%20the%20docs&logoColor=black)](https://github.com/gumberss/Articles)
+
+
 #### What do I learn? Click on one of the shortcuts below and see it 😄
 
 ##### Languages
