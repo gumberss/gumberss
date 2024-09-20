@@ -31,7 +31,7 @@ I love to learn new things, Let's learn together? Call me on [![Linkedin Badge](
 [![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white)](https://github.com/gumberss/FinanceControlinator/tree/master/infra/helm)
 
 #### Messaging
-[![Kafka](https://img.shields.io/badge/-apache%20kafka-white?style=flat&logo=apache%20kafka&logoColor=231F20)](https://github.com/gumberss/Sandboxinator/tree/master/Brokers/Kafka/KafkaTest)
+[![Kafka](https://img.shields.io/badge/-Kafka-white?style=flat&logo=apache%20kafka&logoColor=231F20)](https://github.com/gumberss/Sandboxinator/tree/master/Brokers/Kafka/KafkaTest)
 [![RabbitMq](https://img.shields.io/badge/-RabbitMq-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://github.com/gumberss/PurchaseListinator)
 [![Nats Streaming](https://img.shields.io/badge/-Nats%20Streaming-4086F2?style=flat)](https://github.com/gumberss/Ticketing)
 
