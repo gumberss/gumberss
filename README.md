@@ -21,7 +21,7 @@ I love to learn new things, Let's learn together? Call me on [![Linkedin Badge](
 #### DB
 [![Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)](https://github.com/gumberss/MySnacker)
 [![Datomic](https://img.shields.io/badge/-Datomic-65c985?style=flat&logo=datomic&logoColor=white)](https://github.com/gumberss/PurchaseListinator)
-[![Redis](https://img.shields.io/badge/-Redis-%DC382D?style=flat&logo=redis&logoColor=white)](https://github.com/gumberss/ASP.NET-Core-ECommerce)
+[![Redis](https://img.shields.io/badge/-Redis-%DC382D?style=flat&logo=redis&logoColor=white)](https://github.com/gumberss/Schedulinator)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://github.com/gumberss/Ticketing)
 [![RavenDB](https://img.shields.io/badge/-RavenDB-ca1c59?style=flat&logo=ravendb&logoColor=white)](https://github.com/gumberss/FinanceControlinator)
 
