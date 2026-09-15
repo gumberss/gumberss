@@ -2,7 +2,12 @@
 
 I'm **Gustavo** 😄
 
-Curious by nature, passionate about building things, and always exploring new technologies.
+Platform Architect | Senior Software Engineer
+
+I build high-performance systems that enable teams to move fast without breaking things.
+Most of my work revolves around distributed systems, platformization, and making complex problems feel simple.
+
+Curious by nature, I enjoy exploring new technologies, especially where architecture, performance, and developer experience intersect.
 Let's learn together? You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gumbers/) 📫
 
 ---
@@ -13,8 +18,14 @@ Every now and then I write about advanced tech topics. Curious? Check them out:
 [![Articles](https://img.shields.io/badge/-Articles-white?style=flat&logo=read%20the%20docs&logoColor=black)](https://github.com/gumberss/Articles)
 
 ---
+### 😄 Funny projects
+[Spareinator](https://github.com/gumberss/Spareinator)
 
-### 🧠 What I'm Learning
+<img width="831" height="175" alt="image" src="https://github.com/user-attachments/assets/2ec3e180-5318-487b-9f24-11741f9a6027" />
+
+---
+
+### 🧠 Technologies
 
 Explore what I’ve been experimenting with — just click around 😄
 
