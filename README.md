@@ -27,7 +27,7 @@ Every now and then I write about advanced tech topics. Curious? Check them out:
 
 ### 🧠 Technologies
 
-Explore what I’ve been experimenting with — just click around 😄
+Explore what I’ve been experimenting with, just click around 😄
 
 #### 💻 Languages
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://github.com/gumberss/FinanceControlinator/tree/master/Microservices/Invoices)
