@@ -19,9 +19,7 @@ Every now and then I write about advanced tech topics. Curious? Check them out:
 
 ---
 ### 😄 Funny projects
-[Spareinator](https://github.com/gumberss/Spareinator)
-
-<img width="831" height="175" alt="image" src="https://github.com/user-attachments/assets/2ec3e180-5318-487b-9f24-11741f9a6027" />
+[Spareinator](https://github.com/gumberss/Spareinator): In the (hopefully hypothetical) event that an AI takes over the world, wouldn't it be nice to have a rehearsed speech ready? Write your best plea below and let our judgmental AI overlord decide whether you've earned a spot in the "keep humans around" pile.
 
 ---
 
