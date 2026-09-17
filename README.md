@@ -23,7 +23,12 @@ Every now and then I write about advanced tech topics. Curious? Check them out:
 
 ---
 
-### 🧠 Technologies
+### 🧠 Others Projects
+[Financeinator](https://github.com/gumberss/Financeinator): Ever wondered where your money actually goes… and why it disappears faster than expected? Track your expenses, plan future purchases, and bring some order to financial chaos with a system that treats your wallet with (slightly more) respect than you do.
+
+---
+
+### 🚀 Technologies
 
 Explore what I’ve been experimenting with, just click around 😄
 
